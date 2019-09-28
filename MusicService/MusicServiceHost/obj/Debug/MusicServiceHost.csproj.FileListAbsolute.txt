@@ -1,0 +1,10 @@
+F:\STUDY_level5\DristubutedComputer\Assignment4_BishwajitBarua\MusicService\MusicServiceHost\bin\Debug\MusicServiceHost.exe.config
+F:\STUDY_level5\DristubutedComputer\Assignment4_BishwajitBarua\MusicService\MusicServiceHost\bin\Debug\MusicServiceHost.exe
+F:\STUDY_level5\DristubutedComputer\Assignment4_BishwajitBarua\MusicService\MusicServiceHost\bin\Debug\MusicServiceHost.pdb
+F:\STUDY_level5\DristubutedComputer\Assignment4_BishwajitBarua\MusicService\MusicServiceHost\bin\Debug\MusicService.dll
+F:\STUDY_level5\DristubutedComputer\Assignment4_BishwajitBarua\MusicService\MusicServiceHost\bin\Debug\MusicService.pdb
+F:\STUDY_level5\DristubutedComputer\Assignment4_BishwajitBarua\MusicService\MusicServiceHost\obj\Debug\MusicServiceHost.csprojAssemblyReference.cache
+F:\STUDY_level5\DristubutedComputer\Assignment4_BishwajitBarua\MusicService\MusicServiceHost\obj\Debug\MusicServiceHost.csproj.CoreCompileInputs.cache
+F:\STUDY_level5\DristubutedComputer\Assignment4_BishwajitBarua\MusicService\MusicServiceHost\obj\Debug\MusicServiceHost.csproj.CopyComplete
+F:\STUDY_level5\DristubutedComputer\Assignment4_BishwajitBarua\MusicService\MusicServiceHost\obj\Debug\MusicServiceHost.exe
+F:\STUDY_level5\DristubutedComputer\Assignment4_BishwajitBarua\MusicService\MusicServiceHost\obj\Debug\MusicServiceHost.pdb

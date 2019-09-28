@@ -1,0 +1,6 @@
+F:\STUDY_level5\DristubutedComputer\Assignment4_BishwajitBarua\MusicService\MusicService\obj\Debug\MusicService.csprojAssemblyReference.cache
+F:\STUDY_level5\DristubutedComputer\Assignment4_BishwajitBarua\MusicService\MusicService\obj\Debug\MusicService.csproj.CoreCompileInputs.cache
+F:\STUDY_level5\DristubutedComputer\Assignment4_BishwajitBarua\MusicService\MusicService\bin\Debug\MusicService.dll
+F:\STUDY_level5\DristubutedComputer\Assignment4_BishwajitBarua\MusicService\MusicService\bin\Debug\MusicService.pdb
+F:\STUDY_level5\DristubutedComputer\Assignment4_BishwajitBarua\MusicService\MusicService\obj\Debug\MusicService.dll
+F:\STUDY_level5\DristubutedComputer\Assignment4_BishwajitBarua\MusicService\MusicService\obj\Debug\MusicService.pdb
